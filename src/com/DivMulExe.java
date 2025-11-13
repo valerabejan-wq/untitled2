@@ -10,5 +10,10 @@ public class DivMulExe {
         System.out.println(6*6);
 
         System.out.println(5/0.0);
+
+        System.out.println("===");
+
+        System.out.println(12%5);
+
     }
 }
